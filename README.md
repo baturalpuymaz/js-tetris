@@ -1,8 +1,8 @@
 # TetrisJS
-
-## Languages that I used
-* HTML
-* CSS
-* JavaScript
+ 
+### Languages that I used
+  * HTML
+  * CSS
+  * JavaScript
 
 [Follow Me on Social](https://instagram.com/itsbaturalp)
