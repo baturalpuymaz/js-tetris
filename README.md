@@ -1,6 +1,6 @@
-#TetrisJS
+# TetrisJS
 
-##Languages that I used
+## Languages that I used
 * HTML
 * CSS
 * JavaScript
