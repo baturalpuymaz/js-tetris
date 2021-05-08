@@ -1,5 +1,6 @@
-I did basic Tetris using "HTML, CSS, JavaScript"
+#TetrisJS
 
+##Languages that I used
 * HTML
 * CSS
 * JavaScript
