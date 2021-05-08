@@ -4,4 +4,4 @@ I did basic Tetris using "HTML, CSS, JavaScript"
 * CSS
 * JavaScript
 
-[Follow Me on Social] (https://instagram.com/itsbaturalp)
+[Follow Me on Social](https://instagram.com/itsbaturalp)
