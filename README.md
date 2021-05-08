@@ -1,4 +1,4 @@
-# TetrisJS
+# TetrisJS by Baturalp Uymaz
  
 ### Languages that I used
   * HTML
